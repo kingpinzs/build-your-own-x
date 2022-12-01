@@ -43,7 +43,7 @@ It's a great way to learn.
 
 ## Tutorials
 
-#### Build your own `3D Renderer` [Back to top](#table-of-contents)
+#### Build your own `3D Renderer` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
@@ -59,13 +59,13 @@ It's a great way to learn.
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
 
 
-#### Build your own `Audio vizualizer` [Back to top](#table-of-contents)
+#### Build your own `Audio vizualizer` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C# / Unity**: _Audio Visualization - Unity/C# Tutorial_](https://www.youtube.com/playlist?list=PL3POsQzaCw53p2tA6AWf7_AWgplskR0Vo) [video]
 * [**Processing**: _processing.pdf_](https://www.cg.tuwien.ac.at/courses/WissArbeiten/WS2010/processing.pdf)
 * [**Processing**: _using-processing-for-music-visualization_](https://www.generativehut.com/post/using-processing-for-music-visualization)
 
-#### Build your own `Augmented Reality` [Back to top](#table-of-contents)
+#### Build your own `Augmented Reality` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C#**: _How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D_](https://www.youtube.com/watch?v=uXNjNcqW4kY) [video]
 * [**C#**: _How To Unity ARCore_](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv) [video]
@@ -74,7 +74,7 @@ It's a great way to learn.
 * [**C#**: _How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down_](https://www.youtube.com/watch?v=Z5AmqMuNi08) [video]
 * [**Python**: _Augmented Reality with Python and OpenCV_](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
 
-#### Build your own `BitTorrent Client` [Back to top](#table-of-contents)
+#### Build your own `BitTorrent Client` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C#**: _Building a BitTorrent client from scratch in C#_](https://www.seanjoflynn.com/research/bittorrent.html)
 * [**Go**: _Building a BitTorrent client from the ground up in Go_](https://blog.jse.li/posts/torrent/)
@@ -82,7 +82,7 @@ It's a great way to learn.
 * [**Node.js**: _Write your own bittorrent client_](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
 * [**Python**: _A BitTorrent client in Python 3.5_](http://markuseliasson.se/article/bittorrent-in-python/)
 
-#### Build your own `Blockchain / Cryptocurrency` [Back to top](#table-of-contents)
+#### Build your own `Blockchain / Cryptocurrency` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**(any)**: _DeFo Developer roadmap_](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
@@ -114,7 +114,7 @@ It's a great way to learn.
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 * [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
 
-#### Build your own `Bot` [Back to top](#table-of-contents)
+#### Build your own `Bot` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**Go**: _Build a Telegram Bot in Go in 9 minutes_](https://medium.com/swlh/build-a-telegram-bot-in-go-in-9-minutes-e06ad38acef1)
 * [**Go**: _Creating a Twitter Bot in Go_](https://blog.jonaylor.xyz/creating-a-twitter-bot-in-go)
@@ -142,7 +142,7 @@ It's a great way to learn.
 * [**Rust**: _A bot for Starcraft in Rust, C or any other language_](https://habr.com/en/post/436254/)
 * [**Node.js**: _Build a Retweeting Twitter Bot_](https://www.codewall.co.uk/twitter-bot-tutorial-retweet-nodejs/)
 
-#### Build your own `Command-Line Tool` [Back to top](#table-of-contents)
+#### Build your own `Command-Line Tool` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Rewriting the cat command from scratch_](http://web.archive.org/web/20200414231251/https://learnto.computer/screencasts/bsd-cat) [video]
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
@@ -156,7 +156,7 @@ It's a great way to learn.
 * [**Rust**: _Rust 15-min CLI app tutorial_](https://rust-cli.github.io/book/tutorial/index.html)
 * [**Rust**: Writing a wget clone](https://mattgathu.github.io/writing-cli-app-rust/)
 
-#### Build your own `Database` [Back to top](#table-of-contents)
+#### Build your own `Database` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 * [**C++**: _Implementing a Key-Value Store_](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
@@ -177,7 +177,7 @@ It's a great way to learn.
 
 * [**BIND**: _Build your own DNS server on Linux_](https://opensource.com/article/17/4/build-your-own-name-server)
 
-#### Build your own `Docker` [Back to top](#table-of-contents)
+#### Build your own `Docker` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [**Go**: _Build Your Own Container Using Less than 100 Lines of Go_](https://www.infoq.com/articles/build-a-container-golang)
@@ -187,7 +187,7 @@ It's a great way to learn.
 * [**Rust**: _Writing a container in Rust_](https://litchipi.github.io/series/container_in_rust)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
 
-#### Build your own `Emulator / Virtual Machine` [Back to top](#table-of-contents)
+#### Build your own `Emulator / Virtual Machine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Virtual machine in C_](https://blog.felixangell.com/virtual-machine-in-c/)
 * [**C**: _Write your Own Virtual Machine_](https://justinmeiners.github.io/lc3-vm/)
@@ -204,7 +204,7 @@ It's a great way to learn.
 * [**JavaScript**: _GameBoy Emulation in JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 * [**Python**: _Emulation Basics: Write your own Chip 8 Emulator/Interpreter_](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 
-#### Build your own `Front-end Framework / Library` [Back to top](#table-of-contents)
+#### Build your own `Front-end Framework / Library` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: _A DIY guide to build your own React_](https://github.com/hexacta/didact)
@@ -228,7 +228,7 @@ It's a great way to learn.
 * [**Javascript**: _Reinventing RxJS_](https://vimeo.com/345719107) [video]
 * [**Typescript**: _Build the operators from RxJS from scratch_](https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/?lectureId=intro)
 
-#### Build your own `Game` [Back to top](#table-of-contents)
+#### Build your own `Game` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**Assembly**: Write The Old-School Fire Effect and Bare-Metal Programming in C and Assembly ](https://www.hanshq.net/fire.html)
 * [**C**: _Handmade Hero_](https://handmadehero.org/)
@@ -269,7 +269,7 @@ It's a great way to learn.
 * [**Rust**: _Adventures in Rust: A Basic 2D Game_](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [**Rust**: _Roguelike Tutorial in Rust + tcod_](https://tomassedovic.github.io/roguelike-tutorial/)
 
-#### Build your own `Git` [Back to top](#table-of-contents)
+#### Build your own `Git` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C#**: _C# Networking: Create a TCP chater server, TCP games, UDP Pong and more_](https://16bpp.net/tutorials/csharp-networking)
 * [**Haskell**: _Reimplementing “git clone” in Haskell from the bottom up_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
@@ -281,7 +281,7 @@ It's a great way to learn.
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
 * [**Ruby**: _Building Git_](https://github.com/jcoglan/jit)
 
-#### Build your own `Network Stack` [Back to top](#table-of-contents)
+#### Build your own `Network Stack` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/)
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
@@ -293,7 +293,7 @@ It's a great way to learn.
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
 * [**Ubuntu VM**: _Ubuntu VM Proxy Server_](https://networkjutsu.com/building-your-own-proxy-server/)
 
-#### Build your own `Neural Network` [Back to top](#table-of-contents)
+#### Build your own `Neural Network` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**(any)**: _AI Roadmap_](https://github.com/microsoft/ML-For-Beginners)
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
@@ -327,7 +327,7 @@ It's a great way to learn.
 * [**SQL**: _Deep Neural Network implemented in pure SQL_](https://towardsdatascience.com/deep-neural-network-implemented-in-pure-sql-over-bigquery-f3ed245814d3)
 
 
-#### Build your own `Operating System` [Back to top](#table-of-contents)
+#### Build your own `Operating System` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**Assembly**: _Bare metal programming_](https://github.com/cirosantilli/x86-bare-metal-examples)
 * [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
@@ -356,7 +356,7 @@ It's a great way to learn.
 
 * [**(any runtime)**: _Piku_](https://github.com/piku)
 
-#### Build your own `Physics Engine` [Back to top](#table-of-contents)
+#### Build your own `Physics Engine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Video Game Physics Tutorial_](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
 * [**C++**: _Game physics series by Allen Chou_](http://allenchou.net/game-physics-series/)
@@ -366,7 +366,7 @@ It's a great way to learn.
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
 
-#### Build your own `Programming Language` [Back to top](#table-of-contents)
+#### Build your own `Programming Language` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**(any)**: _mal - Make a Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
 * [**(any)**: _simplelanguage: How to implement a language in Truffle for the GraalVM_](https://github.com/graalvm/simplelanguage/)
@@ -423,7 +423,7 @@ It's a great way to learn.
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 * [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
-#### Build your own `Regex Engine` [Back to top](#table-of-contents)
+#### Build your own `Regex Engine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _A Regular Expression Matcher_](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [**C**: _Regular Expression Matching Can Be Simple And Fast_](https://swtch.com/~rsc/regexp/regexp1.html)
@@ -433,11 +433,11 @@ It's a great way to learn.
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
 
-#### Build your own `Rule Engine` [Back to top](#table-of-contents)
+#### Build your own `Rule Engine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**TypeScript/Javascript**: _Simple yet powerful rule engine for nodejs - elif.js_](https://github.com/halilkaankarakoc/elif.js)
 
-#### Build your own `Search Engine` [Back to top](#table-of-contents)
+#### Build your own `Search Engine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**CSS**: _A search engine in CSS_](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
 * [**Python**: _Building a search engine using Redis and redis-py_](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
@@ -448,7 +448,7 @@ It's a great way to learn.
 * [**Python**: _Neural Image Search with Jina_](https://colab.research.google.com/github/alexcg1/neural-search-notebooks/blob/main/fashion-search/1_build_basic_search/basic_search.ipynb)
 * [**Ruby**: _Write an Internet search engine with 200 lines of Ruby code_](https://web.archive.org/web/20200414231252/https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/)
 
-#### Build your own `Shell` [Back to top](#table-of-contents)
+#### Build your own `Shell` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Tutorial - Write a Shell in C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
@@ -457,7 +457,7 @@ It's a great way to learn.
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
-#### Build your own `Template Engine` [Back to top](#table-of-contents)
+#### Build your own `Template Engine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**JavaScript**: _JavaScript template engine in just 20 lines_](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
@@ -471,7 +471,7 @@ It's a great way to learn.
 * [**Go**: _Build A Simple Terminal Emulator In 100 Lines of Golang_](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [**Rust**: _Build a terminal emulator from scartch_](https://www.poor.dev/blog/terminal-anatomy/)
 
-#### Build your own `Text Editor` [Back to top](#table-of-contents)
+#### Build your own `Text Editor` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C**: _Build Your Own Text Editor_](https://viewsourcecode.org/snaptoken/kilo/)
 * [**C++**: _Designing a Simple Text Editor_](http://www.fltk.org/doc-1.1/editor.html)
@@ -481,28 +481,28 @@ It's a great way to learn.
 * [**Rust**: _Build Your Own Text Editor_](https://www.philippflenker.com/hecto/)
 
 
-#### Build your own `Visual Recognition System` [Back to top](#table-of-contents)
+#### Build your own `Visual Recognition System` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 * [**Python**: _Building an App to Classify Dogs Using fastai and Streamlit_](https://towardsdatascience.com/how-to-create-an-app-to-classify-dogs-using-fastai-and-streamlit-af3e75f0ee28?sk=929c3020d855295fcf0e7eab75f2a596)
 
-#### Build your own `Voxel Engine` [Back to top](#table-of-contents)
+#### Build your own `Voxel Engine` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C++**: _Let's Make a Voxel Engine_](https://sites.google.com/site/letsmakeavoxelengine/home)
 * [**Java**: _Java Voxel Engine Tutorial_](https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL) [video]
 
-#### Build your own `VS Code Extension` [Back to top](#table-of-contents)
+#### Build your own `VS Code Extension` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**JavaScript**: _How to Make Your Own VS Code Extension (Ex.Hello World)_](https://www.freecodecamp.org/news/making-vscode-extension)
 * [**TypeScript**: _How to Make Your Own VS Code Extension (Ex.Hello World)_](https://vscode-docs.readthedocs.io/en/stable/extensions/example-hello-world)
 
-#### Build your own `Web Browser` [Back to top](#table-of-contents)
+#### Build your own `Web Browser` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Python**: _Browser Engineering_](https://browser.engineering)
 
-#### Build your own `Web Server` [Back to top](#table-of-contents)
+#### Build your own `Web Server` [Back to top](#table-of-contents-build-your-own-x)
 
 * [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
 * [**C++**: _Building a simple server with cpp_](https://ncona.com/2019/04/building-a-simple-server-with-cpp/)
@@ -523,7 +523,7 @@ It's a great way to learn.
 * [**Rust**: _Building a Multithreaded Webserver in Rust_](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html)
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
-#### Uncategorized [Back to top](#table-of-contents)
+#### Uncategorized [Back to top](#table-of-contents-build-your-own-x)
 
 * [**(any)**: _Microcontrollers, Design and Implementation_](http://haghiri75.com/en/microcontrollers-design-and-implementation-released/)
 * [**(any)**: _From NAND to Tetris: Building a Modern Computer From First Principles_](http://nand2tetris.org/)
