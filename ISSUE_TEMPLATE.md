@@ -18,6 +18,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Bot
 * [ ] Command-Line Tool
 * [ ] Database
+* [ ] DNS
 * [ ] Docker
 * [ ] Emulator / Virtual Machine
 * [ ] Front-end Framework / Library
